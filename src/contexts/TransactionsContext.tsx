@@ -33,6 +33,7 @@ export const TransactionsProvider = ({
   useEffect(() => {
     loadTransactions();
   }, []);
+
   return (
     <TransactionsContext.Provider
       value={{
