@@ -4,9 +4,17 @@
       "id": 1,
       "description": "Desenvolvimento de site",
       "type": "income",
-      "catergory": "venda",
+      "catergory": "Venda",
       "price": 14000,
-      "createdAt": "2023-05-30"
+      "createdAt": "2023-07-03T23:27:28.264Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "catergory": "alimentação",
+      "price": 50,
+      "createdAt": "2023-07-03T23:27:24.264Z"
     }
   ]
 }
