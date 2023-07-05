@@ -23,6 +23,14 @@
       "catergory": "Educação",
       "price": 1980,
       "createdAt": "2023-07-03T23:21:24.264Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-07-05T21:05:43.791Z",
+      "id": 4
     }
   ]
 }
