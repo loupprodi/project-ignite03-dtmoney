@@ -31,6 +31,22 @@
       "type": "income",
       "createdAt": "2023-07-05T21:05:43.791Z",
       "id": 4
+    },
+    {
+      "description": "Mercado",
+      "price": 2000,
+      "category": "Compra",
+      "type": "income",
+      "createdAt": "2023-07-05T21:43:11.330Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "alimentação",
+      "type": "income",
+      "createdAt": "2023-07-06T00:46:58.232Z",
+      "id": 6
     }
   ]
 }
