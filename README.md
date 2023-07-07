@@ -57,7 +57,7 @@ o useMemo para comparar valores e calculos evitando que o componente seja render
 -[@hookform/resolvers](https://www.npmjs.com/package/@hookform/resolvers)
 
 #biblioteca backend
--[json-server](https://zod.dev/](https://github.com/typicode/json-server)
+-[json-server](https://github.com/typicode/json-server)
 
 #desempenho
 -[useContextSelector](https://www.npmjs.com/package/use-context-selector)
