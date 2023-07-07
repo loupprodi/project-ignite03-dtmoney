@@ -28,42 +28,42 @@ o useMemo para comparar valores e calculos evitando que o componente seja render
 
   - [visual studio code](https://code.visualstudio.com/)
   Comandos:
-  -yarn create vite@latest
-  -yarn install || yarn
-  -yarn run dev
-  -npm add react-router-dom
-  -npm install --save @types/react-router-dom
-  -npm i styled-components
-  -npm i @types/styled-components -D
-  -npm install @radix-ui/react-radio-group
-  -npm install @radix-ui/react-dialog
-  -npm i json-server -D && npx json-server "nome-arquivo" && npx json-server nome-arquivo -p 3333 && npx json-server server.json -w -d 500
-  ("-p: port", "-w: watch", -d delay)
-  -npm i react-hook-form zod
-  -npm i @hookform/resolvers
-  -npm i use-context-selector scheduler
+  -yarn create vite@latest  
+  -yarn install || yarn  
+  -yarn run dev  
+  -npm add react-router-dom  
+  -npm install --save @types/react-router-dom  
+  -npm i styled-components  
+  -npm i @types/styled-components -D  
+  -npm install @radix-ui/react-radio-group  
+  -npm install @radix-ui/react-dialog  
+  -npm i json-server -D && npx json-server "nome-arquivo" && npx json-server nome-arquivo -p 3333 && npx json-server server.json -w -d 500  
+  ("-p: port", "-w: watch", -d delay)  
+  -npm i react-hook-form zod  
+  -npm i @hookform/resolvers  
+  -npm i use-context-selector scheduler  
   
   Obs: Em caso de duvida veja o script no package.json
   caso queira fazer por si mesmo e adicione as dependencias:
 ##bibliotecas usadas:
--[phosphoricons](https://phosphoricons.com/)
+-[phosphoricons](https://phosphoricons.com/)  
 
 #biblioteca de interface
--[radix-ui](https://www.radix-ui.com/)
+-[radix-ui](https://www.radix-ui.com/)  
 
 #biblioteca de formulario
--[zod](https://zod.dev/)
--[react-use-form](https://react-hook-form.com/)
--[@hookform/resolvers](https://www.npmjs.com/package/@hookform/resolvers)
+-[zod](https://zod.dev/)  
+-[react-use-form](https://react-hook-form.com/)  
+-[@hookform/resolvers](https://www.npmjs.com/package/@hookform/resolvers)  
 
 #biblioteca backend
--[json-server](https://github.com/typicode/json-server)
+-[json-server](https://github.com/typicode/json-server)  
 
 #desempenho
--[useContextSelector](https://www.npmjs.com/package/use-context-selector)
+-[useContextSelector](https://www.npmjs.com/package/use-context-selector)  
 
 #biblioteca de data
- foi usado Intl(biblioteca propria) para o tratamento de dados com o formatter)
+ foi usado Intl(biblioteca propria) para o tratamento de dados com o formatter)  
 
 ## Tecnologias utilizada
 
