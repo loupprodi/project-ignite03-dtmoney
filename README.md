@@ -10,7 +10,7 @@ o useMemo para comparar valores e calculos evitando que o componente seja render
 
 ### Features
 
-- [x] Adicionando Estrutura de pastas
+- [x] Adicionado Estrutura de pastas
 - [x] Adicionado o react router dom
 - [x] Adicionado o styled-components
 - [x] Adicionado o radix-ui radiogroup
